@@ -1,8 +1,10 @@
 body {
-
+  margin: 0;
+  font-family: Roboto, Arial;
+  padding-top: 55px;
+  padding-left: 70px;
 }
 
 p {
   margin: 0;
-  font-family: Roboto, Arial;
 }
