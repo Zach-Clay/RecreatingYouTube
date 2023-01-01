@@ -1,5 +1,5 @@
-# Recreating YouTube
-Recreating YouTube for HTML/CSS practice. Only using vanilla HTML and CSS.
+# YouTube Clone
+Recreating YouTube for HTML/CSS practice.
 
 ## What I learned
 I wanted to take on this mini project in order to make sure I am comfortable with vanilla HTML and CSS. I have been relying on Bootstrap for grids and responsive designs and I wanted to be sure that I completely understand the CSS fundamentals. 
